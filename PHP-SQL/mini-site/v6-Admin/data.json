@@ -1,0 +1,25 @@
+{
+  "index": {
+    "title": "Title to the Index page",
+    "menu": "HOME",
+    "content": "html..."
+  },
+
+  "work": {
+    "title": "Title to the work page",
+    "menu": "WORK",
+    "content": "html..."
+  },
+
+  "blog": {
+    "title": "Title to the blog page",
+    "menu": "BLOG",
+    "content": "html..."
+  },
+
+  "contact": {
+    "title": "Title to the contact page",
+    "menu": "CONTACT",
+    "content": "html..."
+  }
+}
